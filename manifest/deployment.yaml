@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: iquantc/my-app:534f5d9b8004f4fc8d7fb352a65635dead387bdf
+        image: iquantc/my-app:d45bbfe1b953545a95b5bba6698ab62698bc3408
         ports:
         - containerPort: 3000
 
