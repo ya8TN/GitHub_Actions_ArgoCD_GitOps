@@ -4,6 +4,8 @@ on:
     push:
         branches: 
             - main
+        paths-ignore:
+            - 'manifest/**' # ignore changes to manifest files to prevent loop
 env: 
     PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
     DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
