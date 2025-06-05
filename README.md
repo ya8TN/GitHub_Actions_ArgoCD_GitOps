@@ -1,6 +1,8 @@
 # GitOps CI/CD with GitHub Actions and ArgoCD
+In this video, we take DevOps to the next level by building a complete GitOps-driven CI/CD pipeline using GitHub Actions and ArgoCD, deployed on Kubernetes! 💥
 
-YouTube Link: 
+
+YouTube Link: https://youtu.be/TZuNSMTWAcY?si=ZP5Sc7RbtQ0bFsgE
 
 
 ## Requirements
