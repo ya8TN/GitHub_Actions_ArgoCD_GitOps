@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: iyadhamami/my-app:291c382245d9595f520e241b531c119617b4cab4
+        image: iyadhamami/my-app:32c0f2209b1a9f0a8d7371eeb95b44c534fbc7cd
         ports:
         - containerPort: 3000
 
